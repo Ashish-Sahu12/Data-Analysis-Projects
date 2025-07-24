@@ -18,8 +18,23 @@
 
  ![image](https://github.com/Ashish-Sahu12/Data-Analysis-Projects/blob/dc420b2351ed6014e2ef2a2851a6255cfbecad60/Screenshot%202025-07-24%20175538.png)
 
+
  # Excel Projects
  ## Vrinda Store Analysis
+ Sample Insights :
+ 1. Women are more likely to buy compared to men(65%).
+ 2. Maharastra, Uttar Pradesh, Karnataka are the top 3 states (35%).
+ 3. Amazon, Flipkart, Myntra channels are max contributing(80%).
+     
  <img width="1354" height="547" alt="image" src="https://github.com/user-attachments/assets/d5e7aafa-2bb8-4ae6-be3c-0992ec74b61f" />
+
+ ## Ferns and petals sales Analysis
+ Sample Insights:
+ 1. Developed an Excel-based Sales Analysis Dashboard for Ferns N Petals, visualizing key metrics such as Total Revenue (₹35L+), Avg. Spend, Delivery Time, and Order Count.
+ 2. Analyzed customer behavior across 7+ occasions including Valentine's Day, Diwali, and Raksha Bandhan to uncover seasonal sales insights.
+ 3. Investigated peak order hours and monthly performance trends to support logistics planning and promotional targeting.
+
+<img width="1878" height="852" alt="Screenshot 2024-10-24 160552" src="https://github.com/user-attachments/assets/5256f47d-d453-456e-b5bf-4174c17ba7bb" />
+
 
  
