@@ -17,4 +17,9 @@
  link -> https://app.powerbi.com/groups/me/reports/469aaaf3-73fd-4c5a-8b3d-8ccee198fd01/6067110f14d392fd8a74?experience=power-bi
 
  ![image](https://github.com/Ashish-Sahu12/Data-Analysis-Projects/blob/dc420b2351ed6014e2ef2a2851a6255cfbecad60/Screenshot%202025-07-24%20175538.png)
+
+ # Excel Projects
+ ## Vrinda Store Analysis
+ <img width="1354" height="547" alt="image" src="https://github.com/user-attachments/assets/d5e7aafa-2bb8-4ae6-be3c-0992ec74b61f" />
+
  
