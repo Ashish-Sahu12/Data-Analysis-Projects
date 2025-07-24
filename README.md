@@ -14,4 +14,5 @@
 4.Optimized dashboard interactivity through filters, tooltips, and dynamic charts, enabling data-driven decisions for stakeholder presentations.
  link -> https://app.powerbi.com/groups/me/reports/469aaaf3-73fd-4c5a-8b3d-8ccee198fd01/6067110f14d392fd8a74?experience=power-bi
 
- ![image]()
+ ![image](https://github.com/Ashish-Sahu12/Data-Analysis-Projects/blob/dc420b2351ed6014e2ef2a2851a6255cfbecad60/Screenshot%202025-07-24%20175538.png)
+ 
