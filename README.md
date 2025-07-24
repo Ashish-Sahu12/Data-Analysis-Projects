@@ -6,6 +6,8 @@
 4. link -> https://app.powerbi.com/groups/me/reports/af4552f0-07c6-4332-b01b-06d638a428f1/b5bc128ff2f5a17dc642?experience=power-bi
    
 ![image](https://github.com/Ashish-Sahu12/Data-Analysis-Projects/blob/ba42c8780925a59e9bdf7f78d8d5848ee58cdac4/Screenshot%202025-07-24%20173759.png)
+![image]("https://github.com/user-attachments/assets/b3e911cf-b8cf-4f09-87ad-100857eab5b0")
+
 
 ## Credit Card Transactional Report
 1. Built a comprehensive Credit Card Transaction Dashboard using Power BI, offering granular insights into revenue, interest earned, and customer acquisition costs across card categories.
