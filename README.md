@@ -3,4 +3,5 @@
 1. Designed an interactive Sales Dashboard for Madhav Ecommerce using Power BI, enabling real-time analysis of profit, quantity, and AOV across states, months, and customer segments.
 2. Visualized key metrics using bar charts, pie charts, and slicers, allowing dynamic exploration of payment modes, product categories, and top-performing sub-categories.
 3. Applied DAX formulas and advanced formatting to streamline reporting and enhance usability for business decision-makers.
+4. link -> https://app.powerbi.com/groups/me/reports/af4552f0-07c6-4332-b01b-06d638a428f1/b5bc128ff2f5a17dc642?experience=power-bi
 ![image](https://github.com/Ashish-Sahu12/Data-Analysis-Projects/blob/ba42c8780925a59e9bdf7f78d8d5848ee58cdac4/Screenshot%202025-07-24%20173759.png)
